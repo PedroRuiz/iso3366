@@ -65,7 +65,7 @@ test('Greece', () => {
   })
 })
 
-test('Greece', () => {
+test('Zambia', () => {
   expect(iso3366('zm')).toEqual({
     "espName": "Zambia",
     "engName": "Zambia",
