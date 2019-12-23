@@ -2257,10 +2257,692 @@ export const countryCodes = {
   }
 }
 
-
 export function iso3366( country ) 
 {
   return countryCodes[country]
 }
+
+export const Autonomous_communities = {
+  "ES-CE" : {
+    "Subdivision category": "autonomous city in North Africa",
+    "3166-2 code": "ES-CE",
+    "Subdivision name": "Ceuta",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-ML" : {
+    "Subdivision category": "autonomous city in North Africa",
+    "3166-2 code": "ES-ML",
+    "Subdivision name": "Melilla",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-AN*" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-AN*",
+    "Subdivision name": "Andalucía",
+    "Local variant": "Junta de Andalucía",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-AR" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-AR",
+    "Subdivision name": "Aragón",
+    "Local variant": "Gobierno de Aragón",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-AS" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-AS",
+    "Subdivision name": "Asturias",
+    "Local variant": "Principado de Asturias",
+    "Language code": "",
+    "Romanization system": "es",
+    "Parent subdivision": ""
+  },
+  "ES-CN" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-CN",
+    "Subdivision name": "Canarias",
+    "Local variant": "Gobierno de Canarias",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-CB" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-CB",
+    "Subdivision name": "Cantabria",
+    "Local variant": "Gobierno de Cantabria",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-CL" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-CL",
+    "Subdivision name": "Castilla y León",
+    "Local variant": "Junta de Castilla y León",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-CM" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-CM",
+    "Subdivision name": "Castilla-La Mancha",
+    "Local variant": "Junta de Comunidades de Castilla-La Mancha",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-CT" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-CT",
+    "Subdivision name": "Catalunya [Cataluña]",
+    "Local variant": "Generalitat de Cataluña",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-PV" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-PV",
+    "Subdivision name": "Euskal Herria",
+    "Local variant": "Euzko Jaurlaritza",
+    "Language code": "eu",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-EX" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-EX",
+    "Subdivision name": "Extremadura",
+    "Local variant": "Junta de Extremadura",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-GA" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-GA",
+    "Subdivision name": "Galicia [Galicia]",
+    "Local variant": "Xunta de Galicia",
+    "Language code": "gl",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-IB*" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-IB",
+    "Subdivision name": "Illes Balears [Islas Baleares]",
+    "Local variant": "Govern Illes Balears",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-RI" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-RI",
+    "Subdivision name": "La Rioja",
+    "Local variant": "Gobierno de La Rioja",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  },
+  "ES-MD" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-MD",
+    "Subdivision name": "Madrid",
+    "Local variant": "Comunidad de Madrid",
+    "Language code": "",
+    "Romanization system": "es",
+    "Parent subdivision": ""
+  },
+  "ES-MC" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-MC",
+    "Subdivision name": "Murcia",
+    "Local variant": "Gobierno de la Región de Murcia",
+    "Language code": "",
+    "Romanization system": "es",
+    "Parent subdivision": ""
+  },
+  "ES-NC" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-NC",
+    "Subdivision name": "Navarra",
+    "Local variant": "Nafarroa Gobernua",
+    "Language code": "",
+    "Romanization system": "es",
+    "Parent subdivision": ""
+  },  
+  "ES-VC" : {
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-VC",
+    "Subdivision name": "Valenciana",
+    "Local variant": "Generalitat Valenciana",
+    "Language code": "",
+    "Romanization system": "es",
+    "Parent subdivision": ""
+  }
+}
+
+function iso3366AutonomousCommunities( community )
+{
+  return Autonomous_communities[community]
+}
+
+export const Provinces = {
+  "ES-C" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-C",
+    "Subdivision name": "A Coruña [La Coruña]",
+    "Local variant": "",
+    "Language code": "gl",
+    "Romanization system": "",
+    "Parent subdivision": "ES-GA"
+  },
+  "ES-A*" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-A",
+    "Subdivision name": "Alacant*",
+    "Local variant": "",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": "ES-VC"
+  },
+  "ES-AB" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-AB",
+    "Subdivision name": "Albacete",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CM"
+  },
+  "ES-A" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-A",
+    "Subdivision name": "Alicante",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-VC"
+  },
+  "ES-AL" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-AL",
+    "Subdivision name": "Almería",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-VI*" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-VI",
+    "Subdivision name": "Araba*",
+    "Local variant": "",
+    "Language code": "eu",
+    "Romanization system": "",
+    "Parent subdivision": "ES-PV"
+  },
+   "ES-O" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-O",
+    "Subdivision name": "Asturias",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AS"
+  },
+  "ES-BA" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-BA",
+    "Subdivision name": "Badajoz",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-EX"
+  },
+  "ES-PM" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-PM",
+    "Subdivision name": "Balears [Baleares]",
+    "Local variant": "",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": "ES-IB"
+  },
+  "ES-B" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-B",
+    "Subdivision name": "Barcelona [Barcelona]",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CT"
+  },
+  "ES-BI" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-BI",
+    "Subdivision name": "Bizkaia",
+    "Local variant": "",
+    "Language code": "eu",
+    "Romanization system": "",
+    "Parent subdivision": "ES-PV"
+  },
+  "ES-BU" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-BU",
+    "Subdivision name": "Burgos",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+  "ES-S" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-S",
+    "Subdivision name": "Cantabria",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CB"
+  },
+  "ES-CS*" :{
+    "Subdivision category": "province",
+    "3166-2 code": "ES-CS",
+    "Subdivision name": "Castelló*",
+    "Local variant": "",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": "ES-VC"
+  },
+  "ES-CS" :{
+    "Subdivision category": "province",
+    "3166-2 code": "ES-CS",
+    "Subdivision name": "Castellón",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-VC"
+  },
+  "ES-CR" :{
+    "Subdivision category": "province",
+    "3166-2 code": "ES-CR",
+    "Subdivision name": "Ciudad Real",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CM"
+  },
+  "ES-CU" :{
+    "Subdivision category": "province",
+    "3166-2 code": "ES-CU",
+    "Subdivision name": "Cuenca",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CM"
+  },
+  "ES-CC" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-CC",
+    "Subdivision name": "Cáceres",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-EX"
+  },
+  "ES-CA" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-CA",
+    "Subdivision name": "Cádiz",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-CO" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-CO",
+    "Subdivision name": "Córdoba",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-SS" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-SS",
+    "Subdivision name": "Gipuzkoa",
+    "Local variant": "",
+    "Language code": "eu",
+    "Romanization system": "",
+    "Parent subdivision": "ES-PV"
+  },
+  "ES-GI" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-GI",
+    "Subdivision name": "Girona [Gerona]",
+    "Local variant": "",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CT"
+  },
+  "ES-GR" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-GR",
+    "Subdivision name": "Granada",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-GU" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-GU",
+    "Subdivision name": "Guadalajara",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CM"
+  },
+   "ES-H" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-H",
+    "Subdivision name": "Huelva",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-HU" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-HU",
+    "Subdivision name": "Huesca",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AR"
+  },
+  "ES-J" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-J",
+    "Subdivision name": "Jaén",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-LO" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-LO",
+    "Subdivision name": "La Rioja",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-RI"
+  },
+  "ES-GC" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-GC",
+    "Subdivision name": "Las Palmas",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CN"
+  },
+  "ES-LE" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-LE",
+    "Subdivision name": "León",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+   "ES-L" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-L",
+    "Subdivision name": "Lleida [Lérida]",
+    "Local variant": "",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CT"
+  },
+  "ES-LU" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-LU",
+    "Subdivision name": "Lugo [Lugo]",
+    "Local variant": "",
+    "Language code": "gl",
+    "Romanization system": "",
+    "Parent subdivision": "ES-GA"
+  },
+  "ES-M" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-M",
+    "Subdivision name": "Madrid",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-MD"
+  },
+  "ES-MU" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-MU",
+    "Subdivision name": "Murcia",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-MC"
+  },
+  "ES-MA" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-MA",
+    "Subdivision name": "Málaga",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-NA*" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-NA",
+    "Subdivision name": "Nafarroa*",
+    "Local variant": "",
+    "Language code": "eu",
+    "Romanization system": "",
+    "Parent subdivision": "ES-NC"
+  },
+   "ES-NA" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-NA",
+    "Subdivision name": "Navarra",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-NC"
+  },
+  "ES-OR" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-OR",
+    "Subdivision name": "Ourense [Orense]",
+    "Local variant": "",
+    "Language code": "gl",
+    "Romanization system": "",
+    "Parent subdivision": "ES-GA"
+  },
+  "ES-P" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-P",
+    "Subdivision name": "Palencia",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+  "ES-PO" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-PO",
+    "Subdivision name": "Pontevedra [Pontevedra]",
+    "Local variant": "",
+    "Language code": "gl",
+    "Romanization system": "",
+    "Parent subdivision": "ES-GA"
+  },
+  "ES-SA" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-SA",
+    "Subdivision name": "Salamanca",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+  "ES-TF" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-TF",
+    "Subdivision name": "Santa Cruz de Tenerife",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CN"
+  },
+  "ES-SG" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-SG",
+    "Subdivision name": "Segovia",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+  "ES-SE" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-SE",
+    "Subdivision name": "Sevilla",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  },
+  "ES-SO" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-SO",
+    "Subdivision name": "Soria",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+  "ES-T" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-T",
+    "Subdivision name": "Tarragona [Tarragona]",
+    "Local variant": "",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CT"
+  },
+  "ES-TE" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-TE",
+    "Subdivision name": "Teruel",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AR"
+  },
+  "ES-TO" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-TO",
+    "Subdivision name": "Toledo",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CM"
+  },
+  "ES-V" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-V",
+    "Subdivision name": "Valencia",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-VC"
+  },
+  "ES-VA" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-VA",
+    "Subdivision name": "Valladolid",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+  "ES-V" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-V",
+    "Subdivision name": "València*",
+    "Local variant": "",
+    "Language code": "ca",
+    "Romanization system": "",
+    "Parent subdivision": "ES-VC"
+  },
+   "ES-ZA" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-ZA",
+    "Subdivision name": "Zamora",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  },
+  "ES-Z" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-Z",
+    "Subdivision name": "Zaragoza",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AR"
+  },
+  "ES-VI" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-VI",
+    "Subdivision name": "Álava",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-PV"
+  },
+  "ES-AV" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-AV",
+    "Subdivision name": "Ávila",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-CL"
+  }
+}
+
+export function iso3366Provinces( province )
+{
+  return Provinces[province]
+}
+
 
 
