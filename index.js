@@ -2256,3 +2256,11 @@ export const countryCodes = {
     independent : "Yes"
   }
 }
+
+
+export function iso3366( country ) 
+{
+  return countryCodes[country]
+}
+
+
