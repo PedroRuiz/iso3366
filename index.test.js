@@ -13,7 +13,7 @@
  *
  */
 
-import { iso3366 } from './index'
+import { iso3366, iso3366Provinces, iso3366AutonomousCommunities } from './index'
 
 
 test('Spain', () => {
@@ -100,3 +100,64 @@ test('Cocos (Keeling) Islands', () => {
     "independent": "Yes"
   })
 })
+
+test('Andalucía', () => {
+  expect(iso3366AutonomousCommunities('ES-AN')).toEqual({
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-AN*",
+    "Subdivision name": "Andalucía",
+    "Local variant": "Junta de Andalucía",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": ""
+  })
+})
+
+test('Asturias', () => {
+  expect(iso3366AutonomousCommunities('ES-AS')).toEqual({
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-AS",
+    "Subdivision name": "Asturias",
+    "Local variant": "Principado de Asturias",
+    "Language code": "",
+    "Romanization system": "es",
+    "Parent subdivision": ""
+  })
+})
+
+test('Comunidad de Madrid', () => {
+  expect(iso3366AutonomousCommunities('ES-MD')).toEqual({
+    "Subdivision category": "autonomous community",
+    "3166-2 code": "ES-MD",
+    "Subdivision name": "Madrid",
+    "Local variant": "Comunidad de Madrid",
+    "Language code": "",
+    "Romanization system": "es",
+    "Parent subdivision": ""
+  })
+})
+
+test('Provincia de Granada', () => {
+  expect(iso3366Provinces('ES-GR')).toEqual({
+    "Subdivision category": "province",
+    "3166-2 code": "ES-GR",
+    "Subdivision name": "Granada",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-AN"
+  })
+})
+
+test('Provincia de Madrid', () => {
+  expect(iso3366Provinces('ES-M')).toEqual({
+    "Subdivision category": "province",
+    "3166-2 code": "ES-M",
+    "Subdivision name": "Madrid",
+    "Local variant": "",
+    "Language code": "es",
+    "Romanization system": "",
+    "Parent subdivision": "ES-MD"
+  })
+})
+

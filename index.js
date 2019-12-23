@@ -2281,7 +2281,7 @@ export const Autonomous_communities = {
     "Romanization system": "",
     "Parent subdivision": ""
   },
-  "ES-AN*" : {
+  "ES-AN" : {
     "Subdivision category": "autonomous community",
     "3166-2 code": "ES-AN*",
     "Subdivision name": "Andalucía",
@@ -2436,7 +2436,7 @@ export const Autonomous_communities = {
   }
 }
 
-function iso3366AutonomousCommunities( community )
+export function iso3366AutonomousCommunities( community )
 {
   return Autonomous_communities[community]
 }
