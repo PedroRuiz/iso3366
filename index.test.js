@@ -1,3 +1,18 @@
+/**
+ * @author Pedro Ruiz Hidalgo <ruizhidalgopedro@gmail.com>
+ * @pedroruizhidalg
+ *
+ * coding the world since 1983
+ *
+ * date 2019-12-23
+ *
+  *
+ * Name: index.js
+ *
+ * Purpose: This privide all countries codes and names according iso3366-2
+ *
+ */
+
 import { iso3366 } from './index'
 
 
