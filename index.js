@@ -18,7 +18,7 @@ export const countryCodes = {
     espName : "Afghanistan",
     engName : "Afghanistan",
     alfa2Code : "AF",
-    alfa3code : "AFG",
+    alfa3Code : "AFG",
     numericCode : 4,
     iso : "ISO 3166-2:AF",
     independent : "Yes"
@@ -27,7 +27,7 @@ export const countryCodes = {
     espName : "Islas Åland",
     engName : "Åland Islands",
     alfa2Code : "AX",
-    alfa3code : "ALA",
+    alfa3Code : "ALA",
     numericCode : 248,
     iso : "ISO 3166-2:AX",
     independent : "No"
@@ -36,7 +36,7 @@ export const countryCodes = {
     espName : "Albania",
     engName : "Albania",
     alfa2Code : "AL",
-    alfa3code : "ALB",
+    alfa3Code : "ALB",
     numericCode : 8,
     iso : "ISO 3166-2:AL",
     independent : "Yes"
@@ -45,7 +45,7 @@ export const countryCodes = {
     espName : "Algeria",
     engName : "Algeria",
     alfa2Code : "DZ",
-    alfa3code : "DZA",
+    alfa3Code : "DZA",
     numericCode : 12,
     iso : "ISO 3166-2:DZ",
     independent : "Yes"
@@ -54,7 +54,7 @@ export const countryCodes = {
     espName : "Samoa Americana",
     engName : "American Samoa",
     alfa2Code : "AS",
-    alfa3code : "ASM",
+    alfa3Code : "ASM",
     numericCode : 16,
     iso : "ISO 3166-2:AS",
     independent : "No"
@@ -63,7 +63,7 @@ export const countryCodes = {
     espName : "Andorra",
     engName : "Andorra",
     alfa2Code : "AD",
-    alfa3code : "AND",
+    alfa3Code : "AND",
     numericCode : 20,
     iso : "ISO 3166-2:AD",
     independent : "Yes"
@@ -72,7 +72,7 @@ export const countryCodes = {
     espName : "Angola",
     engName : "Angola",
     alfa2Code : "AO",
-    alfa3code : "AGO",
+    alfa3Code : "AGO",
     numericCode : 24,
     iso : "ISO 3166-2:AO",
     independent : "Yes"
@@ -81,7 +81,7 @@ export const countryCodes = {
     espName : "Anguilla",
     engName : "Anguilla",
     alfa2Code : "AI",
-    alfa3code : "AIA",
+    alfa3Code : "AIA",
     numericCode : 660,
     iso : "ISO 3166-2:AI",
     independent : "No"
@@ -90,7 +90,7 @@ export const countryCodes = {
     espName : "Antarctica",
     engName : "Antarctica",
     alfa2Code : "AQ",
-    alfa3code : "ATA",
+    alfa3Code : "ATA",
     numericCode : 10,
     iso : "ISO 3166-2:AQ",
     independent : "No"
@@ -99,7 +99,7 @@ export const countryCodes = {
     espName : "Antigua and Barbuda",
     engName : "Antigua and Barbuda",
     alfa2Code : "AG",
-    alfa3code : "ATG",
+    alfa3Code : "ATG",
     numericCode : 28,
     iso : "ISO 3166-2:AG",
     independent : "Yes"
@@ -108,7 +108,7 @@ export const countryCodes = {
     espName : "Argentina",
     engName : "Argentina",
     alfa2Code : "AR",
-    alfa3code : "ARG",
+    alfa3Code : "ARG",
     numericCode : 32,
     iso : "ISO 3166-2:AR",
     independent : "Yes"
@@ -117,7 +117,7 @@ export const countryCodes = {
     espName : "Armenia",
     engName : "Armenia",
     alfa2Code : "AM",
-    alfa3code : "ARM",
+    alfa3Code : "ARM",
     numericCode : 51,
     iso : "ISO 3166-2:AM",
     independent : "Yes"
@@ -126,7 +126,7 @@ export const countryCodes = {
     espName : "Aruba",
     engName : "Aruba",
     alfa2Code : "AW",
-    alfa3code : "ABW",
+    alfa3Code : "ABW",
     numericCode : 533,
     iso : "ISO 3166-2:AW",
     independent : "No"
@@ -135,7 +135,7 @@ export const countryCodes = {
     espName : "Australia",
     engName : "Australia",
     alfa2Code : "AU",
-    alfa3code : "AUS",
+    alfa3Code : "AUS",
     numericCode : 36,
     iso : "ISO 3166-2:AU",
     independent : "Yes"
@@ -144,7 +144,7 @@ export const countryCodes = {
     espName : "Austria",
     engName : "Austria",
     alfa2Code : "AT",
-    alfa3code : "AUT",
+    alfa3Code : "AUT",
     numericCode : 40,
     iso : "ISO 3166-2:AT",
     independent : "Yes"
@@ -153,7 +153,7 @@ export const countryCodes = {
     espName : "Azerbaiyán",
     engName : "Azerbaijan",
     alfa2Code : "AZ",
-    alfa3code : "AZE",
+    alfa3Code : "AZE",
     numericCode : 31,
     iso : "ISO 3166-2:AZ",
     independent : "Yes"
@@ -162,7 +162,7 @@ export const countryCodes = {
     espName : "Bahamas",
     engName : "Bahamas",
     alfa2Code : "BS",
-    alfa3code : "BHS",
+    alfa3Code : "BHS",
     numericCode : 44,
     iso : "ISO 3166-2:BS",
     independent : "Yes"
@@ -171,7 +171,7 @@ export const countryCodes = {
     espName : "Baréin",
     engName : "Bahrain",
     alfa2Code : "BH",
-    alfa3code : "BHR",
+    alfa3Code : "BHR",
     numericCode : 48,
     iso : "ISO 3166-2:BH",
     independent : "Yes"
@@ -180,7 +180,7 @@ export const countryCodes = {
     espName : "Bangladesh",
     engName : "Bangladesh",
     alfa2Code : "BD",
-    alfa3code : "BGD",
+    alfa3Code : "BGD",
     numericCode : 50,
     iso : "ISO 3166-2:BD",
     independent : "Yes"
@@ -189,7 +189,7 @@ export const countryCodes = {
     espName : "Barbados",
     engName : "Barbados",
     alfa2Code : "BB",
-    alfa3code : "BRB",
+    alfa3Code : "BRB",
     numericCode : 52,
     iso : "ISO 3166-2:BB",
     independent : "Yes"
@@ -198,7 +198,7 @@ export const countryCodes = {
     espName : "Belarus",
     engName : "Belarus",
     alfa2Code : "BY",
-    alfa3code : "BLR",
+    alfa3Code : "BLR",
     numericCode : 112,
     iso : "ISO 3166-2:BY",
     independent : "Yes"
@@ -207,7 +207,7 @@ export const countryCodes = {
     espName: "Bélgica",
     engName: "Belgium",
     alfa2Code: "BE",
-    alfa3code: "BEL",
+    alfa3Code: "BEL",
     numericCode: 56,
     iso: "ISO 3166-2:BE",
     independent: "Yes"
@@ -216,7 +216,7 @@ export const countryCodes = {
     espName : "Belice",
     engName : "Belize",
     alfa2Code : "BZ",
-    alfa3code : "BLZ",
+    alfa3Code : "BLZ",
     numericCode : 84,
     iso : "ISO 3166-2:BZ",
     independent : "Yes"
@@ -225,7 +225,7 @@ export const countryCodes = {
     espName : "Benin",
     engName : "Benin",
     alfa2Code : "BJ",
-    alfa3code : "BEN",
+    alfa3Code : "BEN",
     numericCode : 204,
     iso : "ISO 3166-2:BJ",
     independent : "Yes"
@@ -234,7 +234,7 @@ export const countryCodes = {
     espName : "Bermuda",
     engName : "Bermuda",
     alfa2Code : "BM",
-    alfa3code : "BMU",
+    alfa3Code : "BMU",
     numericCode : 60,
     iso : "ISO 3166-2:BM",
     independent : "No"
@@ -243,7 +243,7 @@ export const countryCodes = {
     espName : "Bhutan",
     engName : "Bhutan",
     alfa2Code : "BT",
-    alfa3code : "BTN",
+    alfa3Code : "BTN",
     numericCode : 64,
     iso : "ISO 3166-2:BT",
     independent : "Yes"
@@ -252,7 +252,7 @@ export const countryCodes = {
     espName : "Bolivia",
     engName : "Bolivia (Plurinational State of)",
     alfa2Code : "BO",
-    alfa3code : "BOL",
+    alfa3Code : "BOL",
     numericCode : 68,
     iso : "ISO 3166-2:BO",
     independent : "Yes"
@@ -261,7 +261,7 @@ export const countryCodes = {
     espName : "Bonaire, San Eustaquio y Saba",
     engName : "Bonaire, Sint Eustatius and Saba",
     alfa2Code : "BQ",
-    alfa3code : "BES",
+    alfa3Code : "BES",
     numericCode : 535,
     iso : "ISO 3166-2:BQ",
     independent : "No"
@@ -270,7 +270,7 @@ export const countryCodes = {
     espName : "Bosnia y Herzegovina",
     engName : "Bosnia and Herzegovina",
     alfa2Code : "BA",
-    alfa3code : "BIH",
+    alfa3Code : "BIH",
     numericCode : 70,
     iso : "ISO 3166-2:BA",
     independent : "Yes"
@@ -279,7 +279,7 @@ export const countryCodes = {
     espName : "Botswana",
     engName : "Botswana",
     alfa2Code : "BW",
-    alfa3code : "BWA",
+    alfa3Code : "BWA",
     numericCode : 72,
     iso : "ISO 3166-2:BW",
     independent : "Yes"
@@ -288,7 +288,7 @@ export const countryCodes = {
     espName : "Isla Bouvet",
     engName : "Bouvet Island",
     alfa2Code : "BV",
-    alfa3code : "BVT",
+    alfa3Code : "BVT",
     numericCode : 74,
     iso : "ISO 3166-2:BV",
     independent : "No"
@@ -297,7 +297,7 @@ export const countryCodes = {
     espName : "Brasil",
     engName : "Brazil",
     alfa2Code : "BR",
-    alfa3code : "BRA",
+    alfa3Code : "BRA",
     numericCode : 76,
     iso : "ISO 3166-2:BR",
     independent : "Yes"
@@ -306,7 +306,7 @@ export const countryCodes = {
     espName : "Territorio Británico del Océano Índico",
     engName : "British Indian Ocean Territory",
     alfa2Code : "IO",
-    alfa3code : "IOT",
+    alfa3Code : "IOT",
     numericCode : 86,
     iso : "ISO 3166-2:IO",
     independent : "No"
@@ -315,7 +315,7 @@ export const countryCodes = {
     espName : "Brunéi",
     engName : "Brunei Darussalam",
     alfa2Code : "BN",
-    alfa3code : "BRN",
+    alfa3Code : "BRN",
     numericCode : 96,
     iso : "ISO 3166-2:BN",
     independent : "Yes"
@@ -324,7 +324,7 @@ export const countryCodes = {
     espName : "Bulgaria",
     engName : "Bulgaria",
     alfa2Code : "BG",
-    alfa3code : "BGR",
+    alfa3Code : "BGR",
     numericCode : 100,
     iso : "ISO 3166-2:BG",
     independent : "Yes"
@@ -333,7 +333,7 @@ export const countryCodes = {
     espName : "Burkina Faso",
     engName : "Burkina Faso",
     alfa2Code : "BF",
-    alfa3code : "BFA",
+    alfa3Code : "BFA",
     numericCode : 854,
     iso : "ISO 3166-2:BF",
     independent : "Yes"
@@ -342,7 +342,7 @@ export const countryCodes = {
     espName : "Burundi",
     engName : "Burundi",
     alfa2Code : "BI",
-    alfa3code : "BDI",
+    alfa3Code : "BDI",
     numericCode : 108,
     iso : "ISO 3166-2:BI",
     independent : "Yes"
@@ -351,7 +351,7 @@ export const countryCodes = {
     espName : "Cabo Verde",
     engName : "Cabo Verde",
     alfa2Code : "CV",
-    alfa3code : "CPV",
+    alfa3Code : "CPV",
     numericCode : 132,
     iso : "ISO 3166-2:CV",
     independent : "Yes"
@@ -360,7 +360,7 @@ export const countryCodes = {
     espName : "Camboya",
     engName : "Cambodia",
     alfa2Code : "KH",
-    alfa3code : "KHM",
+    alfa3Code : "KHM",
     numericCode : 116,
     iso : "ISO 3166-2:KH",
     independent : "Yes"
@@ -369,7 +369,7 @@ export const countryCodes = {
     espName : "Camerún",
     engName : "Cameroon",
     alfa2Code : "CM",
-    alfa3code : "CMR",
+    alfa3Code : "CMR",
     numericCode : 120,
     iso : "ISO 3166-2:CM",
     independent : "Yes"
@@ -378,7 +378,7 @@ export const countryCodes = {
     espName : "Canadá",
     engName : "Canada",
     alfa2Code : "CA",
-    alfa3code : "CAN",
+    alfa3Code : "CAN",
     numericCode : 124,
     iso : "ISO 3166-2:CA",
     independent : "Yes"
@@ -387,7 +387,7 @@ export const countryCodes = {
     espName : "Islas Caimán",
     engName : "Cayman Islands",
     alfa2Code : "KY",
-    alfa3code : "CYM",
+    alfa3Code : "CYM",
     numericCode : 136,
     iso : "ISO 3166-2:KY",
     independent : "No"
@@ -396,7 +396,7 @@ export const countryCodes = {
     espName : "República Centroafricana",
     engName : "Central African Republic",
     alfa2Code : "CF",
-    alfa3code : "CAF",
+    alfa3Code : "CAF",
     numericCode : 140,
     iso : "ISO 3166-2:CF",
     independent : "Yes"
@@ -405,7 +405,7 @@ export const countryCodes = {
     espName : "Chad",
     engName : "Chad",
     alfa2Code : "TD",
-    alfa3code : "TCD",
+    alfa3Code : "TCD",
     numericCode : 148,
     iso : "ISO 3166-2:TD",
     independent : "Yes"
@@ -414,7 +414,7 @@ export const countryCodes = {
     espName : "Chile",
     engName : "Chile",
     alfa2Code : "CL",
-    alfa3code : "CHL",
+    alfa3Code : "CHL",
     numericCode : 152,
     iso : "ISO 3166-2:CL",
     independent : "Yes"
@@ -423,7 +423,7 @@ export const countryCodes = {
     espName : "China",
     engName : "China",
     alfa2Code : "CN",
-    alfa3code : "CHN",
+    alfa3Code : "CHN",
     numericCode : 156,
     iso : "ISO 3166-2:CN",
     independent : "Yes"
@@ -432,7 +432,7 @@ export const countryCodes = {
     espName : "Isla Navidad",
     engName : "Christmas Island",
     alfa2Code : "CX",
-    alfa3code : "CXR",
+    alfa3Code : "CXR",
     numericCode : 162,
     iso : "ISO 3166-2:CX",
     independent : "No"
@@ -441,7 +441,7 @@ export const countryCodes = {
     espName : "Isla del Coco",
     engName : "Cocos (Keeling) Islands",
     alfa2Code : "CC",
-    alfa3code : "CCK",
+    alfa3Code : "CCK",
     numericCode : 166,
     iso : "ISO 3166-2:CC",
     independent : "No"
@@ -450,7 +450,7 @@ export const countryCodes = {
     espName : "Colombia",
     engName : "Colombia",
     alfa2Code : "CO",
-    alfa3code : "COL",
+    alfa3Code : "COL",
     numericCode : 170,
     iso : "ISO 3166-2:CO",
     independent : "Yes"
@@ -459,7 +459,7 @@ export const countryCodes = {
     espName : "Comoras",
     engName : "Comoros",
     alfa2Code : "KM",
-    alfa3code : "COM",
+    alfa3Code : "COM",
     numericCode : 174,
     iso : "ISO 3166-2:KM",
     independent : "Yes"
@@ -468,7 +468,7 @@ export const countryCodes = {
     espName : "Congo",
     engName : "Congo",
     alfa2Code : "CG",
-    alfa3code : "COG",
+    alfa3Code : "COG",
     numericCode : 178,
     iso : "ISO 3166-2:CG",
     independent : "Yes"
@@ -477,7 +477,7 @@ export const countryCodes = {
     espName : "República Democrática del Congo",
     engName : "Congo, Democratic Republic of the",
     alfa2Code : "CD",
-    alfa3code : "COD",
+    alfa3Code : "COD",
     numericCode : 180,
     iso : "ISO 3166-2:CD",
     independent : "Yes"
@@ -486,7 +486,7 @@ export const countryCodes = {
     espName : "Islas Cook",
     engName : "Cook Islands",
     alfa2Code : "CK",
-    alfa3code : "COK",
+    alfa3Code : "COK",
     numericCode : 184,
     iso : "ISO 3166-2:CK",
     independent : "No"
@@ -495,7 +495,7 @@ export const countryCodes = {
     espName : "Costa Rica",
     engName : "Costa Rica",
     alfa2Code : "CR",
-    alfa3code : "CRI",
+    alfa3Code : "CRI",
     numericCode : 188,
     iso : "ISO 3166-2:CR",
     independent : "Yes"
@@ -504,7 +504,7 @@ export const countryCodes = {
     espName : "Costa de Marfil",
     engName : "Côte d'Ivoire",
     alfa2Code : "CI",
-    alfa3code : "CIV",
+    alfa3Code : "CIV",
     numericCode : 384,
     iso : "ISO 3166-2:CI",
     independent : "Yes"
@@ -513,7 +513,7 @@ export const countryCodes = {
     espName : "Croacia",
     engName : "Croatia",
     alfa2Code : "HR",
-    alfa3code : "HRV",
+    alfa3Code : "HRV",
     numericCode : 191,
     iso : "ISO 3166-2:HR",
     independent : "Yes"
@@ -522,7 +522,7 @@ export const countryCodes = {
     espName : "Cuba",
     engName : "Cuba",
     alfa2Code : "CU",
-    alfa3code : "CUB",
+    alfa3Code : "CUB",
     numericCode : 192,
     iso : "ISO 3166-2:CU",
     independent : "Yes"
@@ -531,7 +531,7 @@ export const countryCodes = {
     espName : "Curazao",
     engName : "Curaçao",
     alfa2Code : "CW",
-    alfa3code : "CUW",
+    alfa3Code : "CUW",
     numericCode : 531,
     iso : "ISO 3166-2:CW",
     independent : "No"
@@ -540,7 +540,7 @@ export const countryCodes = {
     espName : "Chipre",
     engName : "Cyprus",
     alfa2Code : "CY",
-    alfa3code : "CYP",
+    alfa3Code : "CYP",
     numericCode : 196,
     iso : "ISO 3166-2:CY",
     independent : "Yes"
@@ -549,7 +549,7 @@ export const countryCodes = {
     espName : "Chechenia",
     engName : "Czechia",
     alfa2Code : "CZ",
-    alfa3code : "CZE",
+    alfa3Code : "CZE",
     numericCode : 203,
     iso : "ISO 3166-2:CZ",
     independent : "Yes"
@@ -558,7 +558,7 @@ export const countryCodes = {
     espName : "Dinamarca",
     engName : "Denmark",
     alfa2Code : "DK",
-    alfa3code : "DNK",
+    alfa3Code : "DNK",
     numericCode : 208,
     iso : "ISO 3166-2:DK",
     independent : "Yes"
@@ -567,7 +567,7 @@ export const countryCodes = {
     espName : "Yibuti",
     engName : "Djibouti",
     alfa2Code : "DJ",
-    alfa3code : "DJI",
+    alfa3Code : "DJI",
     numericCode : 262,
     iso : "ISO 3166-2:DJ",
     independent : "Yes"
@@ -576,7 +576,7 @@ export const countryCodes = {
     espName : "Dominica",
     engName : "Dominica",
     alfa2Code : "DM",
-    alfa3code : "DMA",
+    alfa3Code : "DMA",
     numericCode : 212,
     iso : "ISO 3166-2:DM",
     independent : "Yes"
@@ -585,7 +585,7 @@ export const countryCodes = {
     espName : "República Dominicana",
     engName : "Dominican Republic",
     alfa2Code : "DO",
-    alfa3code : "DOM",
+    alfa3Code : "DOM",
     numericCode : 214,
     iso : "ISO 3166-2:DO",
     independent : "Yes"
@@ -594,7 +594,7 @@ export const countryCodes = {
     espName : "Ecuador",
     engName : "Ecuador",
     alfa2Code : "EC",
-    alfa3code : "ECU",
+    alfa3Code : "ECU",
     numericCode : 218,
     iso : "ISO 3166-2:EC",
     independent : "Yes"
@@ -603,7 +603,7 @@ export const countryCodes = {
     espName : "Egipto",
     engName : "Egypt",
     alfa2Code : "EG",
-    alfa3code : "EGY",
+    alfa3Code : "EGY",
     numericCode : 818,
     iso : "ISO 3166-2:EG",
     independent : "Yes"
@@ -612,7 +612,7 @@ export const countryCodes = {
     espName : "El Salvador",
     engName : "El Salvador",
     alfa2Code : "SV",
-    alfa3code : "SLV",
+    alfa3Code : "SLV",
     numericCode : 222,
     iso : "ISO 3166-2:SV",
     independent : "Yes"
@@ -621,7 +621,7 @@ export const countryCodes = {
     espName : "Guinea Ecuatorial",
     engName : "Equatorial Guinea",
     alfa2Code : "GQ",
-    alfa3code : "GNQ",
+    alfa3Code : "GNQ",
     numericCode : 226,
     iso : "ISO 3166-2:GQ",
     independent : "Yes"
@@ -630,7 +630,7 @@ export const countryCodes = {
     espName : "Eritrea",
     engName : "Eritrea",
     alfa2Code : "ER",
-    alfa3code : "ERI",
+    alfa3Code : "ERI",
     numericCode : 232,
     iso : "ISO 3166-2:ER",
     independent : "Yes"
@@ -639,7 +639,7 @@ export const countryCodes = {
     espName : "Estonia",
     engName : "Estonia",
     alfa2Code : "EE",
-    alfa3code : "EST",
+    alfa3Code : "EST",
     numericCode : 233,
     iso : "ISO 3166-2:EE",
     independent : "Yes"
@@ -648,7 +648,7 @@ export const countryCodes = {
     espName : "Esuatini",
     engName : "Eswatini",
     alfa2Code : "SZ",
-    alfa3code : "SWZ",
+    alfa3Code : "SWZ",
     numericCode : 748,
     iso : "ISO 3166-2:SZ",
     independent : "Yes"
@@ -657,7 +657,7 @@ export const countryCodes = {
     espName : "Etiopía",
     engName : "Ethiopia",
     alfa2Code : "ET",
-    alfa3code : "ETH",
+    alfa3Code : "ETH",
     numericCode : 231,
     iso : "ISO 3166-2:ET",
     independent : "Yes"
@@ -666,43 +666,43 @@ export const countryCodes = {
     espName : "Malvinas",
     engName : "Falkland Islands (Malvinas)",
     alfa2Code : "FK",
-    alfa3code : "FLK",
+    alfa3Code : "FLK",
     numericCode : 238,
     iso : "ISO 3166-2:FK",
     independent : "No"
   },
   fo : {
     espName : "Islas Feroe",
-    ngName : "Faroe Islands",
-    lfa2Code : "FO",
-    lfa3code : "FRO",
-    umericCode : 234,
-    so : "ISO 3166-2:FO",
-    ndependent : "No"
+    engName : "Faroe Islands",
+    alfa2Code : "FO",
+    alfa3Code : "FRO",
+    numericCode : 234,
+    iso : "ISO 3166-2:FO",
+    independent : "No"
   },
   fj : {
     espName : "Fiyi",
-    ngName : "Fiji",
-    lfa2Code : "FJ",
-    lfa3code : "FJI",
-    umericCode : 242,
-    so : "ISO 3166-2:FJ",
-    ndependent : "Yes"
+    engName : "Fiji",
+    alfa2Code : "FJ",
+    alfa3Code : "FJI",
+    numericCode : 242,
+    iso : "ISO 3166-2:FJ",
+    independent : "Yes"
   },
   fi : {
     espName : "Finlandia",
-    ngName : "Finland",
-    lfa2Code : "FI",
-    lfa3code : "FIN",
-    umericCode : 246,
-    so : "ISO 3166-2:FI",
-    ndependent : "Yes"
+    engName : "Finland",
+    alfa2Code : "FI",
+    alfa3Code : "FIN",
+    numericCode : 246,
+    iso : "ISO 3166-2:FI",
+    independent : "Yes"
   },
   fr : {
     espName : "Francia",
     engName : "France",
     alfa2Code : "FR",
-    alfa3code : "FRA",
+    alfa3Code : "FRA",
     numericCode : 250,
     iso : "ISO 3166-2:FR",
     independent : "Yes"
@@ -711,7 +711,7 @@ export const countryCodes = {
     espName : "Guayana Francesa",
     engName : "French Guiana",
     alfa2Code : "GF",
-    alfa3code : "GUF",
+    alfa3Code : "GUF",
     numericCode : 254,
     iso : "ISO 3166-2:GF",
     independent : "No"
@@ -720,7 +720,7 @@ export const countryCodes = {
     espName : "Polinesia Francesa",
     engName : "French Polynesia",
     alfa2Code : "PF",
-    alfa3code : "PYF",
+    alfa3Code : "PYF",
     numericCode : 258,
     iso : "ISO 3166-2:PF",
     independent : "No"
@@ -729,7 +729,7 @@ export const countryCodes = {
     espName : "Territorios Australes Franceses",
     engName : "French Southern Territories",
     alfa2Code : "TF",
-    alfa3code : "ATF",
+    alfa3Code : "ATF",
     numericCode : 260,
     iso : "ISO 3166-2:TF",
     independent : "No"
@@ -738,7 +738,7 @@ export const countryCodes = {
     espName : "Gabón",
     engName : "Gabon",
     alfa2Code : "GA",
-    alfa3code : "GAB",
+    alfa3Code : "GAB",
     numericCode : 266,
     iso : "ISO 3166-2:GA",
     independent : "Yes"
@@ -747,7 +747,7 @@ export const countryCodes = {
     espName : "Gambia",
     engName : "Gambia",
     alfa2Code : "GM",
-    alfa3code : "GMB",
+    alfa3Code : "GMB",
     numericCode : 270,
     iso : "ISO 3166-2:GM",
     independent : "Yes"
@@ -756,7 +756,7 @@ export const countryCodes = {
     espName : "Georgia",
     engName : "Georgia",
     alfa2Code : "GE",
-    alfa3code : "GEO",
+    alfa3Code : "GEO",
     numericCode : 268,
     iso : "ISO 3166-2:GE",
     independent : "Yes"
@@ -765,7 +765,7 @@ export const countryCodes = {
     espName : "Alemania",
     engName : "Germany",
     alfa2Code : "DE",
-    alfa3code : "DEU",
+    alfa3Code : "DEU",
     numericCode : 276,
     iso : "ISO 3166-2:DE",
     independent : "Yes"
@@ -774,7 +774,7 @@ export const countryCodes = {
     espName : "Ghana",
     engName : "Ghana",
     alfa2Code : "GH",
-    alfa3code : "GHA",
+    alfa3Code : "GHA",
     numericCode : 288,
     iso : "ISO 3166-2:GH",
     independent : "Yes"
@@ -783,7 +783,7 @@ export const countryCodes = {
     espName : "Gibraltar",
     engName : "Gibraltar",
     alfa2Code : "GI",
-    alfa3code : "GIB",
+    alfa3Code : "GIB",
     numericCode : 292,
     iso : "ISO 3166-2:GI",
     independent : "No"
@@ -792,7 +792,7 @@ export const countryCodes = {
     espName : "Grecia",
     engName : "Greece",
     alfa2Code : "GR",
-    alfa3code : "GRC",
+    alfa3Code : "GRC",
     numericCode : 300,
     iso : "ISO 3166-2:GR",
     independent : "Yes"
@@ -801,7 +801,7 @@ export const countryCodes = {
     espName : "Groenlancia",
     engName : "Greenland",
     alfa2Code : "GL",
-    alfa3code : "GRL",
+    alfa3Code : "GRL",
     numericCode : 304,
     iso : "ISO 3166-2:GL",
     independent : "No"
@@ -810,7 +810,7 @@ export const countryCodes = {
     espName : "Granada",
     engName : "Grenada",
     alfa2Code : "GD",
-    alfa3code : "GRD",
+    alfa3Code : "GRD",
     numericCode : 308,
     iso : "ISO 3166-2:GD",
     independent : "Yes"
@@ -819,7 +819,7 @@ export const countryCodes = {
     espName : "Guadalupe",
     engName : "Guadeloupe",
     alfa2Code : "GP",
-    alfa3code : "GLP",
+    alfa3Code : "GLP",
     numericCode : 312,
     iso : "ISO 3166-2:GP",
     independent : "No"
@@ -828,7 +828,7 @@ export const countryCodes = {
     espName : "Guam",
     engName : "Guam",
     alfa2Code : "GU",
-    alfa3code : "GUM",
+    alfa3Code : "GUM",
     numericCode : 316,
     iso : "ISO 3166-2:GU",
     independent : "No"
@@ -837,7 +837,7 @@ export const countryCodes = {
     espName : "Guatemala",
     engName : "Guatemala",
     alfa2Code : "GT",
-    alfa3code : "GTM",
+    alfa3Code : "GTM",
     numericCode : 320,
     iso : "ISO 3166-2:GT",
     independent : "Yes"
@@ -846,7 +846,7 @@ export const countryCodes = {
     espName : "Guernsey",
     engName : "Guernsey",
     alfa2Code : "GG",
-    alfa3code : "GGY",
+    alfa3Code : "GGY",
     numericCode : 831,
     iso : "ISO 3166-2:GG",
     independent : "No"
@@ -855,7 +855,7 @@ export const countryCodes = {
     espName : "Guinea",
     engName : "Guinea",
     alfa2Code : "GN",
-    alfa3code : "GIN",
+    alfa3Code : "GIN",
     numericCode : 324,
     iso : "ISO 3166-2:GN",
     independent : "Yes"
@@ -864,7 +864,7 @@ export const countryCodes = {
     espName : "Guinea-Bissau",
     engName : "Guinea-Bissau",
     alfa2Code : "GW",
-    alfa3code : "GNB",
+    alfa3Code : "GNB",
     numericCode : 624,
     iso : "ISO 3166-2:GW",
     independent : "Yes"
@@ -873,7 +873,7 @@ export const countryCodes = {
     espName : "Guyana",
     engName : "Guyana",
     alfa2Code : "GY",
-    alfa3code : "GUY",
+    alfa3Code : "GUY",
     numericCode : 328,
     iso : "ISO 3166-2:GY",
     independent : "Yes"
@@ -882,7 +882,7 @@ export const countryCodes = {
     espName : "Haití",
     engName : "Haiti",
     alfa2Code : "HT",
-    alfa3code : "HTI",
+    alfa3Code : "HTI",
     numericCode : 332,
     iso : "ISO 3166-2:HT",
     independent : "Yes"
@@ -891,7 +891,7 @@ export const countryCodes = {
     espName : "Islas Heard y McDonald",
     engName : "Heard Island and McDonald Islands",
     alfa2Code : "HM",
-    alfa3code : "HMD",
+    alfa3Code : "HMD",
     numericCode : 334,
     iso : "ISO 3166-2:HM",
     independent : "No"
@@ -900,7 +900,7 @@ export const countryCodes = {
     espName : "Vaticano",
     engName : "Holy See",
     alfa2Code : "VA",
-    alfa3code : "VAT",
+    alfa3Code : "VAT",
     numericCode : 336,
     iso : "ISO 3166-2:VA",
     independent : "Yes"
@@ -909,7 +909,7 @@ export const countryCodes = {
     espName : "Honduras",
     engName : "Honduras",
     alfa2Code : "HN",
-    alfa3code : "HND",
+    alfa3Code : "HND",
     numericCode : 340,
     iso : "ISO 3166-2:HN",
     independent : "Yes"
@@ -918,7 +918,7 @@ export const countryCodes = {
     espName : "Hong Kong",
     engName : "Hong Kong",
     alfa2Code : "HK",
-    alfa3code : "HKG",
+    alfa3Code : "HKG",
     numericCode : 344,
     iso : "ISO 3166-2:HK",
     independent : "No"
@@ -927,7 +927,7 @@ export const countryCodes = {
     espName : "Hungría",
     engName : "Hungary",
     alfa2Code : "HU",
-    alfa3code : "HUN",
+    alfa3Code : "HUN",
     numericCode : 348,
     iso : "ISO 3166-2:HU",
     independent : "Yes"
@@ -936,7 +936,7 @@ export const countryCodes = {
     espName : "Islandia",
     engName : "Iceland",
     alfa2Code : "IS",
-    alfa3code : "ISL",
+    alfa3Code : "ISL",
     numericCode : 352,
     iso : "ISO 3166-2:IS",
     independent : "Yes"
@@ -945,7 +945,7 @@ export const countryCodes = {
     espName : "India",
     engName : "India",
     alfa2Code : "IN",
-    alfa3code : "IND",
+    alfa3Code : "IND",
     numericCode : 356,
     iso : "ISO 3166-2:IN",
     independent : "Yes"
@@ -954,7 +954,7 @@ export const countryCodes = {
     espName : "Indonesia",
     engName : "Indonesia",
     alfa2Code : "ID",
-    alfa3code : "IDN",
+    alfa3Code : "IDN",
     numericCode : 360,
     iso : "ISO 3166-2:ID",
     independent : "Yes"
@@ -963,7 +963,7 @@ export const countryCodes = {
     espName : "Irñan",
     engName : "Iran (Islamic Republic of)",
     alfa2Code : "IR",
-    alfa3code : "IRN",
+    alfa3Code : "IRN",
     numericCode : 364,
     iso : "ISO 3166-2:IR",
     independent : "Yes"
@@ -972,7 +972,7 @@ export const countryCodes = {
     espName : "Iraq",
     engName : "Iraq",
     alfa2Code : "IQ",
-    alfa3code : "IRQ",
+    alfa3Code : "IRQ",
     numericCode : 368,
     iso : "ISO 3166-2:IQ",
     independent : "Yes"
@@ -981,7 +981,7 @@ export const countryCodes = {
     espName : "Irlandia",
     engName : "Ireland",
     alfa2Code : "IE",
-    alfa3code : "IRL",
+    alfa3Code : "IRL",
     numericCode : 372,
     iso : "ISO 3166-2:IE",
     independent : "Yes"
@@ -990,7 +990,7 @@ export const countryCodes = {
     espName : "Isla de Man",
     engName : "Isle of Man",
     alfa2Code : "IM",
-    alfa3code : "IMN",
+    alfa3Code : "IMN",
     numericCode : 833,
     iso : "ISO 3166-2:IM",
     independent : "No"
@@ -999,7 +999,7 @@ export const countryCodes = {
     espName : "Israel",
     engName : "Israel",
     alfa2Code : "IL",
-    alfa3code : "ISR",
+    alfa3Code : "ISR",
     numericCode : 376,
     iso : "ISO 3166-2:IL",
     independent : "Yes"
@@ -1008,7 +1008,7 @@ export const countryCodes = {
     espName : "Italia",
     engName : "Italy",
     alfa2Code : "IT",
-    alfa3code : "ITA",
+    alfa3Code : "ITA",
     numericCode : 380,
     iso : "ISO 3166-2:IT",
     independent : "Yes"
@@ -1017,7 +1017,7 @@ export const countryCodes = {
     espName : "Jamaica",
     engName : "Jamaica",
     alfa2Code : "JM",
-    alfa3code : "JAM",
+    alfa3Code : "JAM",
     numericCode : 388,
     iso : "ISO 3166-2:JM",
     independent : "Yes"
@@ -1026,7 +1026,7 @@ export const countryCodes = {
     espName : "Japón",
     engName : "Japan",
     alfa2Code : "JP",
-    alfa3code : "JPN",
+    alfa3Code : "JPN",
     numericCode : 392,
     iso : "ISO 3166-2:JP",
     independent : "Yes"
@@ -1035,7 +1035,7 @@ export const countryCodes = {
     espName : "Jersey",
     engName : "Jersey",
     alfa2Code : "JE",
-    alfa3code : "JEY",
+    alfa3Code : "JEY",
     numericCode : 832,
     iso : "ISO 3166-2:JE",
     independent : "No"
@@ -1044,7 +1044,7 @@ export const countryCodes = {
     espName : "Jordania",
     engName : "Jordan",
     alfa2Code : "JO",
-    alfa3code : "JOR",
+    alfa3Code : "JOR",
     numericCode : 400,
     iso : "ISO 3166-2:JO",
     independent : "Yes"
@@ -1053,7 +1053,7 @@ export const countryCodes = {
     espName : "Kazajistán",
     engName : "Kazakhstan",
     alfa2Code : "KZ",
-    alfa3code : "KAZ",
+    alfa3Code : "KAZ",
     numericCode : 398,
     iso : "ISO 3166-2:KZ",
     independent : "Yes"
@@ -1062,7 +1062,7 @@ export const countryCodes = {
     espName : "Kenia",
     engName : "Kenya",
     alfa2Code : "KE",
-    alfa3code : "KEN",
+    alfa3Code : "KEN",
     numericCode : 404,
     iso : "ISO 3166-2:KE",
     independent : "Yes"
@@ -1071,7 +1071,7 @@ export const countryCodes = {
     espName : "Kiribati",
     engName : "Kiribati",
     alfa2Code : "KI",
-    alfa3code : "KIR",
+    alfa3Code : "KIR",
     numericCode : 296,
     iso : "ISO 3166-2:KI",
     independent : "Yes"
@@ -1080,7 +1080,7 @@ export const countryCodes = {
     espName : "Korea del Norte",
     engName : "Korea (Democratic People's Republic of)",
     alfa2Code : "KP",
-    alfa3code : "PRK",
+    alfa3Code : "PRK",
     numericCode : 408,
     iso : "ISO 3166-2:KP",
     independent : "Yes"
@@ -1089,7 +1089,7 @@ export const countryCodes = {
     espName : "Korea del Sur",
     engName : "Korea, Republic of",
     alfa2Code : "KR",
-    alfa3code : "KOR",
+    alfa3Code : "KOR",
     numericCode : 410,
     iso : "ISO 3166-2:KR",
     independent : "Yes"
@@ -1098,7 +1098,7 @@ export const countryCodes = {
     espName : "Kuwait",
     engName : "Kuwait",
     alfa2Code : "KW",
-    alfa3code : "KWT",
+    alfa3Code : "KWT",
     numericCode : 414,
     iso : "ISO 3166-2:KW",
     independent : "Yes"
@@ -1107,7 +1107,7 @@ export const countryCodes = {
     espName : "Kirguistán",
     engName : "Kyrgyzstan",
     alfa2Code : "KG",
-    alfa3code : "KGZ",
+    alfa3Code : "KGZ",
     numericCode : 417,
     iso : "ISO 3166-2:KG",
     independent : "Yes"
@@ -1116,7 +1116,7 @@ export const countryCodes = {
     espName : "Laos",
     engName : "Lao People's Democratic Republic",
     alfa2Code : "LA",
-    alfa3code : "LAO",
+    alfa3Code : "LAO",
     numericCode : 418,
     iso : "ISO 3166-2:LA",
     independent : "Yes"
@@ -1125,7 +1125,7 @@ export const countryCodes = {
     espName : "Letonia",
     engName : "Latvia",
     alfa2Code : "LV",
-    alfa3code : "LVA",
+    alfa3Code : "LVA",
     numericCode : 428,
     iso : "ISO 3166-2:LV",
     independent : "Yes"
@@ -1134,7 +1134,7 @@ export const countryCodes = {
     espName : "Líbano",
     engName : "Lebanon",
     alfa2Code : "LB",
-    alfa3code : "LBN",
+    alfa3Code : "LBN",
     numericCode : 422,
     iso : "ISO 3166-2:LB",
     independent : "Yes"
@@ -1143,7 +1143,7 @@ export const countryCodes = {
     espName : "Lesoto",
     engName : "Lesotho",
     alfa2Code : "LS",
-    alfa3code : "LSO",
+    alfa3Code : "LSO",
     numericCode : 426,
     iso : "ISO 3166-2:LS",
     independent : "Yes"
@@ -1152,7 +1152,7 @@ export const countryCodes = {
     espName : "Liberia",
     engName : "Liberia",
     alfa2Code : "LR",
-    alfa3code : "LBR",
+    alfa3Code : "LBR",
     numericCode : 430,
     iso : "ISO 3166-2:LR",
     independent : "Yes"
@@ -1161,7 +1161,7 @@ export const countryCodes = {
     espName : "Libia",
     engName : "Libya",
     alfa2Code : "LY",
-    alfa3code : "LBY",
+    alfa3Code : "LBY",
     numericCode : 434,
     iso : "ISO 3166-2:LY",
     independent : "Yes"
@@ -1170,52 +1170,52 @@ export const countryCodes = {
     espName : "Liechtenstein",
     engName : "Liechtenstein",
     alfa2Code : "LI",
-    alfa3code : "LIE",
+    alfa3Code : "LIE",
     numericCode : 438,
     iso : "ISO 3166-2:LI",
     independent : "Yes"
   },
   lt : {
     espName : "Lituania",
-    ngName : "Lithuania",
-    lfa2Code : "LT",
-    lfa3code : "LTU",
-    umericCode : 440,
-    so : "ISO 3166-2:LT",
-    ndependent : "Yes"
+    engName : "Lithuania",
+    alfa2Code : "LT",
+    alfa3Code : "LTU",
+    numericCode : 440,
+    iso : "ISO 3166-2:LT",
+    independent : "Yes"
   },
   lu : {
     espName : "Luxemburgo",
-    ngName : "Luxembourg",
-    lfa2Code : "LU",
-    lfa3code : "LUX",
-    umericCode : 442,
-    so : "ISO 3166-2:LU",
-    ndependent : "Yes"
+    engName : "Luxembourg",
+    alfa2Code : "LU",
+    alfa3Code : "LUX",
+    numericCode : 442,
+    iso : "ISO 3166-2:LU",
+    independent : "Yes"
   },
   mo : {
     espName : "Macao",
-    ngName : "Macao",
-    lfa2Code : "MO",
-    lfa3code : "MAC",
-    umericCode : 446,
-    so : "ISO 3166-2:MO",
-    ndependent : "No"
+    engName : "Macao",
+    alfa2Code : "MO",
+    alfa3Code : "MAC",
+    numericCode : 446,
+    iso : "ISO 3166-2:MO",
+    independent : "No"
   },
   mg : {
     espName : "Madagascar",
-    ngName : "Madagascar",
-    lfa2Code : "MG",
-    lfa3code : "MDG",
-    umericCode : 450,
-    so : "ISO 3166-2:MG",
-    ndependent : "Yes"
+    engName : "Madagascar",
+    alfa2Code : "MG",
+    alfa3Code : "MDG",
+    numericCode : 450,
+    iso : "ISO 3166-2:MG",
+    independent : "Yes"
   },
   mw : {
     espName : "Malawi",
     engName : "Malawi",
     alfa2Code : "MW",
-    alfa3code : "MWI",
+    alfa3Code : "MWI",
     numericCode : 454,
     iso : "ISO 3166-2:MW",
     independent : "Yes"
@@ -1224,7 +1224,7 @@ export const countryCodes = {
     espName : "Malasia",
     engName : "Malaysia",
     alfa2Code : "MY",
-    alfa3code : "MYS",
+    alfa3Code : "MYS",
     numericCode : 458,
     iso : "ISO 3166-2:MY",
     independent : "Yes"
@@ -1233,7 +1233,7 @@ export const countryCodes = {
     espName : "Maldivas",
     engName : "Maldives",
     alfa2Code : "MV",
-    alfa3code : "MDV",
+    alfa3Code : "MDV",
     numericCode : 462,
     iso : "ISO 3166-2:MV",
     independent : "Yes"
@@ -1242,7 +1242,7 @@ export const countryCodes = {
     espName : "Mali",
     engName : "Mali",
     alfa2Code : "ML",
-    alfa3code : "MLI",
+    alfa3Code : "MLI",
     numericCode : 466,
     iso : "ISO 3166-2:ML",
     independent : "Yes"
@@ -1251,7 +1251,7 @@ export const countryCodes = {
     espName : "Malta",
     engName : "Malta",
     alfa2Code : "MT",
-    alfa3code : "MLT",
+    alfa3Code : "MLT",
     numericCode : 470,
     iso : "ISO 3166-2:MT",
     independent : "Yes"
@@ -1260,7 +1260,7 @@ export const countryCodes = {
     espName : "Islas Marshall",
     engName : "Marshall Islands",
     alfa2Code : "MH",
-    alfa3code : "MHL",
+    alfa3Code : "MHL",
     numericCode : 584,
     iso : "ISO 3166-2:MH",
     independent : "Yes"
@@ -1269,7 +1269,7 @@ export const countryCodes = {
     espName : "Martinica",
     engName : "Martinique",
     alfa2Code : "MQ",
-    alfa3code : "MTQ",
+    alfa3Code : "MTQ",
     numericCode : 474,
     iso : "ISO 3166-2:MQ",
     independent : "No"
@@ -1278,7 +1278,7 @@ export const countryCodes = {
     espName : "Mauritania",
     engName : "Mauritania",
     alfa2Code : "MR",
-    alfa3code : "MRT",
+    alfa3Code : "MRT",
     numericCode : 478,
     iso : "ISO 3166-2:MR",
     independent : "Yes"
@@ -1287,7 +1287,7 @@ export const countryCodes = {
     espName : "Mauricio",
     engName : "Mauritius",
     alfa2Code : "MU",
-    alfa3code : "MUS",
+    alfa3Code : "MUS",
     numericCode : 480,
     iso : "ISO 3166-2:MU",
     independent : "Yes"
@@ -1296,7 +1296,7 @@ export const countryCodes = {
     espName : "Mayotte",
     engName : "Mayotte",
     alfa2Code : "YT",
-    alfa3code : "MYT",
+    alfa3Code : "MYT",
     numericCode : 175,
     iso : "ISO 3166-2:YT",
     independent : "No"
@@ -1305,7 +1305,7 @@ export const countryCodes = {
     espName : "México",
     engName : "Mexico",
     alfa2Code : "MX",
-    alfa3code : "MEX",
+    alfa3Code : "MEX",
     numericCode : 484,
     iso : "ISO 3166-2:MX",
     independent : "Yes"
@@ -1314,7 +1314,7 @@ export const countryCodes = {
     espName : "Estados Federados de Micronesia",
     engName : "Micronesia (Federated States of)",
     alfa2Code : "FM",
-    alfa3code : "FSM",
+    alfa3Code : "FSM",
     numericCode : 583,
     iso : "ISO 3166-2:FM",
     independent : "Yes"
@@ -1323,7 +1323,7 @@ export const countryCodes = {
     espName : "Moldavia",
     engName : "Moldova, Republic of",
     alfa2Code : "MD",
-    alfa3code : "MDA",
+    alfa3Code : "MDA",
     numericCode : 498,
     iso : "ISO 3166-2:MD",
     independent : "Yes"
@@ -1332,7 +1332,7 @@ export const countryCodes = {
     espName : "Mónaco",
     engName : "Monaco",
     alfa2Code : "MC",
-    alfa3code : "MCO",
+    alfa3Code : "MCO",
     numericCode : 492,
     iso : "ISO 3166-2:MC",
     independent : "Yes"
@@ -1341,7 +1341,7 @@ export const countryCodes = {
     espName : "Mongolia",
     engName : "Mongolia",
     alfa2Code : "MN",
-    alfa3code : "MNG",
+    alfa3Code : "MNG",
     numericCode : 496,
     iso : "ISO 3166-2:MN",
     independent : "Yes"
@@ -1350,7 +1350,7 @@ export const countryCodes = {
     espName : "Montenegro",
     engName : "Montenegro",
     alfa2Code : "ME",
-    alfa3code : "MNE",
+    alfa3Code : "MNE",
     numericCode : 499,
     iso : "ISO 3166-2:ME",
     independent : "Yes"
@@ -1359,7 +1359,7 @@ export const countryCodes = {
     espName : "Montserrat",
     engName : "Montserrat",
     alfa2Code : "MS",
-    alfa3code : "MSR",
+    alfa3Code : "MSR",
     numericCode : 500,
     iso : "ISO 3166-2:MS",
     independent : "No"
@@ -1368,7 +1368,7 @@ export const countryCodes = {
     espName : "Marruecos",
     engName : "Morocco",
     alfa2Code : "MA",
-    alfa3code : "MAR",
+    alfa3Code : "MAR",
     numericCode : 504,
     iso : "ISO 3166-2:MA",
     independent : "Yes"
@@ -1377,7 +1377,7 @@ export const countryCodes = {
     espName : "Mozambique",
     engName : "Mozambique",
     alfa2Code : "MZ",
-    alfa3code : "MOZ",
+    alfa3Code : "MOZ",
     numericCode : 508,
     iso : "ISO 3166-2:MZ",
     independent : "Yes"
@@ -1386,7 +1386,7 @@ export const countryCodes = {
     espName : "Birmania",
     engName : "Myanmar",
     alfa2Code : "MM",
-    alfa3code : "MMR",
+    alfa3Code : "MMR",
     numericCode : 104,
     iso : "ISO 3166-2:MM",
     independent : "Yes"
@@ -1395,7 +1395,7 @@ export const countryCodes = {
     espName : "Namibia",
     engName : "Namibia",
     alfa2Code : "NA",
-    alfa3code : "NAM",
+    alfa3Code : "NAM",
     numericCode : 516,
     iso : "ISO 3166-2:NA",
     independent : "Yes"
@@ -1404,7 +1404,7 @@ export const countryCodes = {
     espName : "Nauru",
     engName : "Nauru",
     alfa2Code : "NR",
-    alfa3code : "NRU",
+    alfa3Code : "NRU",
     numericCode : 520,
     iso : "ISO 3166-2:NR",
     independent : "Yes"
@@ -1413,7 +1413,7 @@ export const countryCodes = {
     espName : "Nepal",
     engName : "Nepal",
     alfa2Code : "NP",
-    alfa3code : "NPL",
+    alfa3Code : "NPL",
     numericCode : 524,
     iso : "ISO 3166-2:NP",
     independent : "Yes"
@@ -1422,7 +1422,7 @@ export const countryCodes = {
     espName : "Paises Bajos",
     engName : "Netherlands",
     alfa2Code : "NL",
-    alfa3code : "NLD",
+    alfa3Code : "NLD",
     numericCode : 528,
     iso : "ISO 3166-2:NL",
     independent : "Yes"
@@ -1431,7 +1431,7 @@ export const countryCodes = {
     espName : "Nueva Caledonia",
     engName : "New Caledonia",
     alfa2Code : "NC",
-    alfa3code : "NCL",
+    alfa3Code : "NCL",
     numericCode : 540,
     iso : "ISO 3166-2:NC",
     independent : "No"
@@ -1440,7 +1440,7 @@ export const countryCodes = {
     espName : "Nueva Zelanda",
     engName : "New Zealand",
     alfa2Code : "NZ",
-    alfa3code : "NZL",
+    alfa3Code : "NZL",
     numericCode : 554,
     iso : "ISO 3166-2:NZ",
     independent : "Yes"
@@ -1449,7 +1449,7 @@ export const countryCodes = {
     espName : "Nicaragua",
     engName : "Nicaragua",
     alfa2Code : "NI",
-    alfa3code : "NIC",
+    alfa3Code : "NIC",
     numericCode : 558,
     iso : "ISO 3166-2:NI",
     independent : "Yes"
@@ -1458,7 +1458,7 @@ export const countryCodes = {
     espName : "Níger",
     engName : "Niger",
     alfa2Code : "NE",
-    alfa3code : "NER",
+    alfa3Code : "NER",
     numericCode : 562,
     iso : "ISO 3166-2:NE",
     independent : "Yes"
@@ -1467,7 +1467,7 @@ export const countryCodes = {
     espName : "Nigeria",
     engName : "Nigeria",
     alfa2Code : "NG",
-    alfa3code : "NGA",
+    alfa3Code : "NGA",
     numericCode : 566,
     iso : "ISO 3166-2:NG",
     independent : "Yes"
@@ -1476,7 +1476,7 @@ export const countryCodes = {
     espName : "Niue",
     engName : "Niue",
     alfa2Code : "NU",
-    alfa3code : "NIU",
+    alfa3Code : "NIU",
     numericCode : 570,
     iso : "ISO 3166-2:NU",
     independent : "No"
@@ -1485,7 +1485,7 @@ export const countryCodes = {
     espName : "Isla Norfolk",
     engName : "Norfolk Island",
     alfa2Code : "NF",
-    alfa3code : "NFK",
+    alfa3Code : "NFK",
     numericCode : 574,
     iso : "ISO 3166-2:NF",
     independent : "No"
@@ -1494,7 +1494,7 @@ export const countryCodes = {
     espName : "Macedonia del Norte",
     engName : "North Macedonia",
     alfa2Code : "MK",
-    alfa3code : "MKD",
+    alfa3Code : "MKD",
     numericCode : 807,
     iso : "ISO 3166-2:MK",
     independent : "Yes"
@@ -1503,7 +1503,7 @@ export const countryCodes = {
     espName : "Islas Marianas del Norte",
     engName : "Northern Mariana Islands",
     alfa2Code : "MP",
-    alfa3code : "MNP",
+    alfa3Code : "MNP",
     numericCode : 580,
     iso : "ISO 3166-2:MP",
     independent : "No"
@@ -1512,7 +1512,7 @@ export const countryCodes = {
     espName : "Noruega",
     engName : "Norway",
     alfa2Code : "NO",
-    alfa3code : "NOR",
+    alfa3Code : "NOR",
     numericCode : 578,
     iso : "ISO 3166-2:NO",
     independent : "Yes"
@@ -1521,7 +1521,7 @@ export const countryCodes = {
     espName : "Omán",
     engName : "Oman",
     alfa2Code : "OM",
-    alfa3code : "OMN",
+    alfa3Code : "OMN",
     numericCode : 512,
     iso : "ISO 3166-2:OM",
     independent : "Yes"
@@ -1530,7 +1530,7 @@ export const countryCodes = {
     espName : "Pakistán",
     engName : "Pakistan",
     alfa2Code : "PK",
-    alfa3code : "PAK",
+    alfa3Code : "PAK",
     numericCode : 586,
     iso : "ISO 3166-2:PK",
     independent : "Yes"
@@ -1539,7 +1539,7 @@ export const countryCodes = {
     espName : "Palau",
     engName : "Palau",
     alfa2Code : "PW",
-    alfa3code : "PLW",
+    alfa3Code : "PLW",
     numericCode : 585,
     iso : "ISO 3166-2:PW",
     independent : "Yes"
@@ -1548,7 +1548,7 @@ export const countryCodes = {
     espName : "Palestina",
     engName : "Palestine, State of",
     alfa2Code : "PS",
-    alfa3code : "PSE",
+    alfa3Code : "PSE",
     numericCode : 275,
     iso : "ISO 3166-2:PS",
     independent : "No"
@@ -1557,7 +1557,7 @@ export const countryCodes = {
     espName : "Panamá",
     engName : "Panama",
     alfa2Code : "PA",
-    alfa3code : "PAN",
+    alfa3Code : "PAN",
     numericCode : 591,
     iso : "ISO 3166-2:PA",
     independent : "Yes"
@@ -1566,7 +1566,7 @@ export const countryCodes = {
     espName : "Papua Nueva Guinea",
     engName : "Papua New Guinea",
     alfa2Code : "PG",
-    alfa3code : "PNG",
+    alfa3Code : "PNG",
     numericCode : 598,
     iso : "ISO 3166-2:PG",
     independent : "Yes"
@@ -1575,7 +1575,7 @@ export const countryCodes = {
     espName : "Paraguay",
     engName : "Paraguay",
     alfa2Code : "PY",
-    alfa3code : "PRY",
+    alfa3Code : "PRY",
     numericCode : 600,
     iso : "ISO 3166-2:PY",
     independent : "Yes"
@@ -1584,7 +1584,7 @@ export const countryCodes = {
     espName : "Perú",
     engName : "Peru",
     alfa2Code : "PE",
-    alfa3code : "PER",
+    alfa3Code : "PER",
     numericCode : 604,
     iso : "ISO 3166-2:PE",
     independent : "Yes"
@@ -1593,7 +1593,7 @@ export const countryCodes = {
     espName : "Filipinas",
     engName : "Philippines",
     alfa2Code : "PH",
-    alfa3code : "PHL",
+    alfa3Code : "PHL",
     numericCode : 608,
     iso : "ISO 3166-2:PH",
     independent : "Yes"
@@ -1602,7 +1602,7 @@ export const countryCodes = {
     espName : "Islas Pitcairn",
     engName : "Pitcairn",
     alfa2Code : "PN",
-    alfa3code : "PCN",
+    alfa3Code : "PCN",
     numericCode : 612,
     iso : "ISO 3166-2:PN",
     independent : "No"
@@ -1611,7 +1611,7 @@ export const countryCodes = {
     espName : "Polonia",
     engName : "Poland",
     alfa2Code : "PL",
-    alfa3code : "POL",
+    alfa3Code : "POL",
     numericCode : 616,
     iso : "ISO 3166-2:PL",
     independent : "Yes"
@@ -1620,7 +1620,7 @@ export const countryCodes = {
     espName : "Portugal",
     engName : "Portugal",
     alfa2Code : "PT",
-    alfa3code : "PRT",
+    alfa3Code : "PRT",
     numericCode : 620,
     iso : "ISO 3166-2:PT",
     independent : "Yes"
@@ -1629,7 +1629,7 @@ export const countryCodes = {
     espName : "Puerto Rico",
     engName : "Puerto Rico",
     alfa2Code : "PR",
-    alfa3code : "PRI",
+    alfa3Code : "PRI",
     numericCode : 630,
     iso : "ISO 3166-2:PR",
     independent : "No"
@@ -1638,7 +1638,7 @@ export const countryCodes = {
     espName : "Qatar",
     engName : "Qatar",
     alfa2Code : "QA",
-    alfa3code : "QAT",
+    alfa3Code : "QAT",
     numericCode : 634,
     iso : "ISO 3166-2:QA",
     independent : "Yes"
@@ -1647,7 +1647,7 @@ export const countryCodes = {
     espName : "Réunion",
     engName : "Réunion",
     alfa2Code : "RE",
-    alfa3code : "REU",
+    alfa3Code : "REU",
     numericCode : 638,
     iso : "ISO 3166-2:RE",
     independent : "No"
@@ -1656,7 +1656,7 @@ export const countryCodes = {
     espName : "Rumanía",
     engName : "Romania",
     alfa2Code : "RO",
-    alfa3code : "ROU",
+    alfa3Code : "ROU",
     numericCode : 642,
     iso : "ISO 3166-2:RO",
     independent : "Yes"
@@ -1665,7 +1665,7 @@ export const countryCodes = {
     espName : "Federación Rusa",
     engName : "Russian Federation",
     alfa2Code : "RU",
-    alfa3code : "RUS",
+    alfa3Code : "RUS",
     numericCode : 643,
     iso : "ISO 3166-2:RU",
     independent : "Yes"
@@ -1674,7 +1674,7 @@ export const countryCodes = {
     espName : "Ruanda",
     engName : "Rwanda",
     alfa2Code : "RW",
-    alfa3code : "RWA",
+    alfa3Code : "RWA",
     numericCode : 646,
     iso : "ISO 3166-2:RW",
     independent : "Yes"
@@ -1683,7 +1683,7 @@ export const countryCodes = {
     espName : "San Bartolomé",
     engName : "Saint Barthélemy",
     alfa2Code : "BL",
-    alfa3code : "BLM",
+    alfa3Code : "BLM",
     numericCode : 652,
     iso : "ISO 3166-2:BL",
     independent : "No"
@@ -1692,7 +1692,7 @@ export const countryCodes = {
     espName : "Santa Elena",
     engName : "Saint Helena, Ascension and Tristan da Cunha",
     alfa2Code : "SH",
-    alfa3code : "SHN",
+    alfa3Code : "SHN",
     numericCode : 654,
     iso : "ISO 3166-2:SH",
     independent : "No"
@@ -1701,7 +1701,7 @@ export const countryCodes = {
     espName : "San Cristóbal y Nieves",
     engName : "Saint Kitts and Nevis",
     alfa2Code : "KN",
-    alfa3code : "KNA",
+    alfa3Code : "KNA",
     numericCode : 659,
     iso : "ISO 3166-2:KN",
     independent : "Yes"
@@ -1710,7 +1710,7 @@ export const countryCodes = {
     espName : "Santa Lucía",
     engName : "Saint Lucia",
     alfa2Code : "LC",
-    alfa3code : "LCA",
+    alfa3Code : "LCA",
     numericCode : 662,
     iso : "ISO 3166-2:LC",
     independent : "Yes"
@@ -1719,7 +1719,7 @@ export const countryCodes = {
     espName : "Isla de San Martín (parte francesa)",
     engName : "Saint Martin (French part)",
     alfa2Code : "MF",
-    alfa3code : "MAF",
+    alfa3Code : "MAF",
     numericCode : 663,
     iso : "ISO 3166-2:MF",
     independent : "No"
@@ -1728,7 +1728,7 @@ export const countryCodes = {
     espName : "San Pedro y Miquelón",
     engName : "Saint Pierre and Miquelon",
     alfa2Code : "PM",
-    alfa3code : "SPM",
+    alfa3Code : "SPM",
     numericCode : 666,
     iso : "ISO 3166-2:PM",
     independent : "No"
@@ -1737,7 +1737,7 @@ export const countryCodes = {
     espName : "San Vicente y las Granadinas",
     engName : "Saint Vincent and the Grenadines",
     alfa2Code : "VC",
-    alfa3code : "VCT",
+    alfa3Code : "VCT",
     numericCode : 670,
     iso : "ISO 3166-2:VC",
     independent : "Yes"
@@ -1746,7 +1746,7 @@ export const countryCodes = {
     espName : "Samoa",
     engName : "Samoa",
     alfa2Code : "WS",
-    alfa3code : "WSM",
+    alfa3Code : "WSM",
     numericCode : 882,
     iso : "ISO 3166-2:WS",
     independent : "Yes"
@@ -1755,7 +1755,7 @@ export const countryCodes = {
     espName : "San Marino",
     engName : "San Marino",
     alfa2Code : "SM",
-    alfa3code : "SMR",
+    alfa3Code : "SMR",
     numericCode : 674,
     iso : "ISO 3166-2:SM",
     independent : "Yes"
@@ -1764,7 +1764,7 @@ export const countryCodes = {
     espName : "Santo Tome y Príncipe",
     engName : "Sao Tome and Principe",
     alfa2Code : "ST",
-    alfa3code : "STP",
+    alfa3Code : "STP",
     numericCode : 678,
     iso : "ISO 3166-2:ST",
     independent : "Yes"
@@ -1773,7 +1773,7 @@ export const countryCodes = {
     espName : "Arabia Saudí",
     engName : "Saudi Arabia",
     alfa2Code : "SA",
-    alfa3code : "SAU",
+    alfa3Code : "SAU",
     numericCode : 682,
     iso : "ISO 3166-2:SA",
     independent : "Yes"
@@ -1782,7 +1782,7 @@ export const countryCodes = {
     espName : "Senegal",
     engName : "Senegal",
     alfa2Code : "SN",
-    alfa3code : "SEN",
+    alfa3Code : "SEN",
     numericCode : 686,
     iso : "ISO 3166-2:SN",
     independent : "Yes"
@@ -1791,7 +1791,7 @@ export const countryCodes = {
     espName : "Serbia",
     engName : "Serbia",
     alfa2Code : "RS",
-    alfa3code : "SRB",
+    alfa3Code : "SRB",
     numericCode : 688,
     iso : "ISO 3166-2:RS",
     independent : "Yes"
@@ -1800,7 +1800,7 @@ export const countryCodes = {
     espName : "Seychelles",
     engName : "Seychelles",
     alfa2Code : "SC",
-    alfa3code : "SYC",
+    alfa3Code : "SYC",
     numericCode : 690,
     iso : "ISO 3166-2:SC",
     independent : "Yes"
@@ -1809,7 +1809,7 @@ export const countryCodes = {
     espName : "Sierra Leona",
     engName : "Sierra Leone",
     alfa2Code : "SL",
-    alfa3code : "SLE",
+    alfa3Code : "SLE",
     numericCode : 694,
     iso : "ISO 3166-2:SL",
     independent : "Yes"
@@ -1818,7 +1818,7 @@ export const countryCodes = {
     espName : "Singapur",
     engName : "Singapore",
     alfa2Code : "SG",
-    alfa3code : "SGP",
+    alfa3Code : "SGP",
     numericCode : 702,
     iso : "ISO 3166-2:SG",
     independent : "Yes"
@@ -1827,7 +1827,7 @@ export const countryCodes = {
     espName : "San Martín (Países Bajos)",
     engName : "Sint Maarten (Dutch part)",
     alfa2Code : "SX",
-    alfa3code : "SXM",
+    alfa3Code : "SXM",
     numericCode : 534,
     iso : "ISO 3166-2:SX",
     independent : "No"
@@ -1836,7 +1836,7 @@ export const countryCodes = {
     espName : "Eslovaquia",
     engName : "Slovakia",
     alfa2Code : "SK",
-    alfa3code : "SVK",
+    alfa3Code : "SVK",
     numericCode : 703,
     iso : "ISO 3166-2:SK",
     independent : "Yes"
@@ -1845,7 +1845,7 @@ export const countryCodes = {
     espName : "Eslovenia",
     engName : "Slovenia",
     alfa2Code : "SI",
-    alfa3code : "SVN",
+    alfa3Code : "SVN",
     numericCode : 705,
     iso : "ISO 3166-2:SI",
     independent : "Yes"
@@ -1854,16 +1854,16 @@ export const countryCodes = {
     espName : "Islas Salomón",
     engName : "Solomon Islands",
     alfa2Code : "SB",
-    alfa3code : "SLB",
+    alfa3Code : "SLB",
     numericCode : 90,
     iso : "ISO 3166-2:SB",
     independent : "Yes"
   },
-  so : {
+  iso : {
     espName : "Somalia",
     engName : "Somalia",
     alfa2Code : "SO",
-    alfa3code : "SOM",
+    alfa3Code : "SOM",
     numericCode : 706,
     iso : "ISO 3166-2:SO",
     independent : "Yes"
@@ -1872,7 +1872,7 @@ export const countryCodes = {
     espName : "Sudáfrica",
     engName : "South Africa",
     alfa2Code : "ZA",
-    alfa3code : "ZAF",
+    alfa3Code : "ZAF",
     numericCode : 710,
     iso : "ISO 3166-2:ZA",
     independent : "Yes"
@@ -1881,7 +1881,7 @@ export const countryCodes = {
     espName : "Islas Georgias del Sur y Sandwich del Sur",
     engName : "South Georgia and the South Sandwich Islands",
     alfa2Code : "GS",
-    alfa3code : "SGS",
+    alfa3Code : "SGS",
     numericCode : 239,
     iso : "ISO 3166-2:GS",
     independent : "No"
@@ -1890,7 +1890,7 @@ export const countryCodes = {
     espName : "Sudán del Sur",
     engName : "South Sudan",
     alfa2Code : "SS",
-    alfa3code : "SSD",
+    alfa3Code : "SSD",
     numericCode : 728,
     iso : "ISO 3166-2:SS",
     independent : "Yes"
@@ -1899,7 +1899,7 @@ export const countryCodes = {
     espName : "España",
     engName : "Spain",
     alfa2Code : "ES",
-    alfa3code : "ESP",
+    alfa3Code : "ESP",
     numericCode : 724,
     iso : "ISO 3166-2:ES",
     independent : "Yes"
@@ -1908,7 +1908,7 @@ export const countryCodes = {
     espName : "Sri Lanka",
     engName : "Sri Lanka",
     alfa2Code : "LK",
-    alfa3code : "LKA",
+    alfa3Code : "LKA",
     numericCode : 144,
     iso : "ISO 3166-2:LK",
     independent : "Yes"
@@ -1917,7 +1917,7 @@ export const countryCodes = {
     espName : "Sudán",
     engName : "Sudan",
     alfa2Code : "SD",
-    alfa3code : "SDN",
+    alfa3Code : "SDN",
     numericCode : 729,
     iso : "ISO 3166-2:SD",
     independent : "Yes"
@@ -1926,7 +1926,7 @@ export const countryCodes = {
     espName : "Surinam",
     engName : "Suriname",
     alfa2Code : "SR",
-    alfa3code : "SUR",
+    alfa3Code : "SUR",
     numericCode : 740,
     iso : "ISO 3166-2:SR",
     independent : "Yes"
@@ -1935,7 +1935,7 @@ export const countryCodes = {
     espName : "Svalbard y Jan Mayen",
     engName : "Svalbard and Jan Mayen",
     alfa2Code : "SJ",
-    alfa3code : "SJM",
+    alfa3Code : "SJM",
     numericCode : 744,
     iso : "ISO 3166-2:SJ",
     independent : "No"
@@ -1944,7 +1944,7 @@ export const countryCodes = {
     espName : "Suecia",
     engName : "Sweden",
     alfa2Code : "SE",
-    alfa3code : "SWE",
+    alfa3Code : "SWE",
     numericCode : 752,
     iso : "ISO 3166-2:SE",
     independent : "Yes"
@@ -1953,7 +1953,7 @@ export const countryCodes = {
     espName : "Suiza",
     engName : "Switzerland",
     alfa2Code : "CH",
-    alfa3code : "CHE",
+    alfa3Code : "CHE",
     numericCode : 756,
     iso : "ISO 3166-2:CH",
     independent : "Yes"
@@ -1962,7 +1962,7 @@ export const countryCodes = {
     espName : "Siria",
     engName : "Syrian Arab Republic",
     alfa2Code : "SY",
-    alfa3code : "SYR",
+    alfa3Code : "SYR",
     numericCode : 760,
     iso : "ISO 3166-2:SY",
     independent : "Yes"
@@ -1971,7 +1971,7 @@ export const countryCodes = {
     espName : "Taiwan",
     engName : "Taiwan, Province of China[a]",
     alfa2Code : "TW",
-    alfa3code : "TWN",
+    alfa3Code : "TWN",
     numericCode : 158,
     iso : "ISO 3166-2:TW",
     independent : "No"
@@ -1980,7 +1980,7 @@ export const countryCodes = {
     espName : "Tayikistán",
     engName : "Tajikistan",
     alfa2Code : "TJ",
-    alfa3code : "TJK",
+    alfa3Code : "TJK",
     numericCode : 762,
     iso : "ISO 3166-2:TJ",
     independent : "Yes"
@@ -1989,7 +1989,7 @@ export const countryCodes = {
     espName : "Tanzania",
     engName : "Tanzania, United Republic of",
     alfa2Code : "TZ",
-    alfa3code : "TZA",
+    alfa3Code : "TZA",
     numericCode : 834,
     iso : "ISO 3166-2:TZ",
     independent : "Yes"
@@ -1998,7 +1998,7 @@ export const countryCodes = {
     espName : "Tailandia",
     engName : "Thailand",
     alfa2Code : "TH",
-    alfa3code : "THA",
+    alfa3Code : "THA",
     numericCode : 764,
     iso : "ISO 3166-2:TH",
     independent : "Yes"
@@ -2007,7 +2007,7 @@ export const countryCodes = {
     espName : "Timor Oriental",
     engName : "Timor-Leste",
     alfa2Code : "TL",
-    alfa3code : "TLS",
+    alfa3Code : "TLS",
     numericCode : 626,
     iso : "ISO 3166-2:TL",
     independent : "Yes"
@@ -2016,7 +2016,7 @@ export const countryCodes = {
     espName : "Togo",
     engName : "Togo",
     alfa2Code : "TG",
-    alfa3code : "TGO",
+    alfa3Code : "TGO",
     numericCode : 768,
     iso : "ISO 3166-2:TG",
     independent : "Yes"
@@ -2025,7 +2025,7 @@ export const countryCodes = {
     espName : "Tokelau",
     engName : "Tokelau",
     alfa2Code : "TK",
-    alfa3code : "TKL",
+    alfa3Code : "TKL",
     numericCode : 772,
     iso : "ISO 3166-2:TK",
     independent : "No"
@@ -2034,7 +2034,7 @@ export const countryCodes = {
     espName : "Tonga",
     engName : "Tonga",
     alfa2Code : "TO",
-    alfa3code : "TON",
+    alfa3Code : "TON",
     numericCode : 776,
     iso : "ISO 3166-2:TO",
     independent : "Yes"
@@ -2043,7 +2043,7 @@ export const countryCodes = {
     espName : "Trinidad y Tobago",
     engName : "Trinidad and Tobago",
     alfa2Code : "TT",
-    alfa3code : "TTO",
+    alfa3Code : "TTO",
     numericCode : 780,
     iso : "ISO 3166-2:TT",
     independent : "Yes"
@@ -2052,7 +2052,7 @@ export const countryCodes = {
     espName : "Túnez",
     engName : "Tunisia",
     alfa2Code : "TN",
-    alfa3code : "TUN",
+    alfa3Code : "TUN",
     numericCode : 788,
     iso : "ISO 3166-2:TN",
     independent : "Yes"
@@ -2061,7 +2061,7 @@ export const countryCodes = {
     espName : "Turquía",
     engName : "Turkey",
     alfa2Code : "TR",
-    alfa3code : "TUR",
+    alfa3Code : "TUR",
     numericCode : 792,
     iso : "ISO 3166-2:TR",
     independent : "Yes"
@@ -2070,7 +2070,7 @@ export const countryCodes = {
     espName : "Turkmenistán",
     engName : "Turkmenistan",
     alfa2Code : "TM",
-    alfa3code : "TKM",
+    alfa3Code : "TKM",
     numericCode : 795,
     iso : "ISO 3166-2:TM",
     independent : "Yes"
@@ -2079,7 +2079,7 @@ export const countryCodes = {
     espName : "Islas Turcas y Caicos",
     engName : "Turks and Caicos Islands",
     alfa2Code : "TC",
-    alfa3code : "TCA",
+    alfa3Code : "TCA",
     numericCode : 796,
     iso : "ISO 3166-2:TC",
     independent : "No"
@@ -2088,7 +2088,7 @@ export const countryCodes = {
     espName : "Tuvalu",
     engName : "Tuvalu",
     alfa2Code : "TV",
-    alfa3code : "TUV",
+    alfa3Code : "TUV",
     numericCode : 798,
     iso : "ISO 3166-2:TV",
     independent : "Yes"
@@ -2097,7 +2097,7 @@ export const countryCodes = {
     espName : "Uganda",
     engName : "Uganda",
     alfa2Code : "UG",
-    alfa3code : "UGA",
+    alfa3Code : "UGA",
     numericCode : 800,
     iso : "ISO 3166-2:UG",
     independent : "Yes"
@@ -2106,7 +2106,7 @@ export const countryCodes = {
     espName : "Ucrania",
     engName : "Ukraine",
     alfa2Code : "UA",
-    alfa3code : "UKR",
+    alfa3Code : "UKR",
     numericCode : 804,
     iso : "ISO 3166-2:UA",
     independent : "Yes"
@@ -2115,7 +2115,7 @@ export const countryCodes = {
     espName : "Emiratos Árabes Unidos",
     engName : "United Arab Emirates",
     alfa2Code : "AE",
-    alfa3code : "ARE",
+    alfa3Code : "ARE",
     numericCode : 784,
     iso : "ISO 3166-2:AE",
     independent : "Yes"
@@ -2124,7 +2124,7 @@ export const countryCodes = {
     espName : "Reino Unido",
     engName : "United Kingdom of Great Britain and Northern Ireland",
     alfa2Code : "GB",
-    alfa3code : "GBR",
+    alfa3Code : "GBR",
     numericCode : 826,
     iso : "ISO 3166-2:GB",
     independent : "Yes"
@@ -2133,7 +2133,7 @@ export const countryCodes = {
     espName : "Islas Ultramarinas Menores de Estados Unidos",
     engName : "United States Minor Outlying Islands",
     alfa2Code : "UM",
-    alfa3code : "UMI",
+    alfa3Code : "UMI",
     numericCode : 581,
     iso : "ISO 3166-2:UM",
     independent : "No"
@@ -2142,7 +2142,7 @@ export const countryCodes = {
     espName : "Estados Unidos de América",
     engName : "United States of America",
     alfa2Code : "US",
-    alfa3code : "USA",
+    alfa3Code : "USA",
     numericCode : 840,
     iso : "ISO 3166-2:US",
     independent : "Yes"
@@ -2151,7 +2151,7 @@ export const countryCodes = {
     espName : "Uruguay",
     engName : "Uruguay",
     alfa2Code : "UY",
-    alfa3code : "URY",
+    alfa3Code : "URY",
     numericCode : 858,
     iso : "ISO 3166-2:UY",
     independent : "Yes"
@@ -2160,7 +2160,7 @@ export const countryCodes = {
     espName : "Uzbekistán",
     engName : "Uzbekistan",
     alfa2Code : "UZ",
-    alfa3code : "UZB",
+    alfa3Code : "UZB",
     numericCode : 860,
     iso : "ISO 3166-2:UZ",
     independent : "Yes"
@@ -2169,7 +2169,7 @@ export const countryCodes = {
     espName : "Vanuatu",
     engName : "Vanuatu",
     alfa2Code : "VU",
-    alfa3code : "VUT",
+    alfa3Code : "VUT",
     numericCode : 548,
     iso : "ISO 3166-2:VU",
     independent : "Yes"
@@ -2178,7 +2178,7 @@ export const countryCodes = {
     espName : "Venezuela",
     engName : "Venezuela (Bolivarian Republic of)",
     alfa2Code : "VE",
-    alfa3code : "VEN",
+    alfa3Code : "VEN",
     numericCode : 862,
     iso : "ISO 3166-2:VE",
     independent : "Yes"
@@ -2187,7 +2187,7 @@ export const countryCodes = {
     espName : "Vietnam",
     engName : "Viet Nam",
     alfa2Code : "VN",
-    alfa3code : "VNM",
+    alfa3Code : "VNM",
     numericCode : 704,
     iso : "ISO 3166-2:VN",
     independent : "Yes"
@@ -2196,7 +2196,7 @@ export const countryCodes = {
     espName : "Islas Vírgenes Británicas",
     engName : "Virgin Islands (British)",
     alfa2Code : "VG",
-    alfa3code : "VGB",
+    alfa3Code : "VGB",
     numericCode : 92,
     iso : "ISO 3166-2:VG",
     independent : "No"
@@ -2205,7 +2205,7 @@ export const countryCodes = {
     espName : "Islas Vírgenes de los Estados Unidos",
     engName : "Virgin Islands (U.S.)",
     alfa2Code : "VI",
-    alfa3code : "VIR",
+    alfa3Code : "VIR",
     numericCode : 850,
     iso : "ISO 3166-2:VI",
     independent : "No"
@@ -2214,7 +2214,7 @@ export const countryCodes = {
     espName : "Wallis y Futuna",
     engName : "Wallis and Futuna",
     alfa2Code : "WF",
-    alfa3code : "WLF",
+    alfa3Code : "WLF",
     numericCode : 876,
     iso : "ISO 3166-2:WF",
     independent : "No"
@@ -2223,7 +2223,7 @@ export const countryCodes = {
     espName : "Sahara Occidental",
     engName : "Western Sahara",
     alfa2Code : "EH",
-    alfa3code : "ESH",
+    alfa3Code : "ESH",
     numericCode : 732,
     iso : "ISO 3166-2:EH",
     independent : "No"
@@ -2232,7 +2232,7 @@ export const countryCodes = {
     espName : "Yemen",
     engName : "Yemen",
     alfa2Code : "YE",
-    alfa3code : "YEM",
+    alfa3Code : "YEM",
     numericCode : 887,
     iso : "ISO 3166-2:YE",
     independent : "Yes"
@@ -2241,7 +2241,7 @@ export const countryCodes = {
     espName : "Zambia",
     engName : "Zambia",
     alfa2Code : "ZM",
-    alfa3code : "ZMB",
+    alfa3Code : "ZMB",
     numericCode : 894,
     iso : "ISO 3166-2:ZM",
     independent : "Yes"
@@ -2250,7 +2250,7 @@ export const countryCodes = {
     espName : "Zimbabue",
     engName : "Zimbabwe",
     alfa2Code : "ZW",
-    alfa3code : "ZWE",
+    alfa3Code : "ZWE",
     numericCode : 716,
     iso : "ISO 3166-2:ZW",
     independent : "Yes"
@@ -2778,7 +2778,16 @@ export const Provinces = {
   "ES-OR" : {
     "Subdivision category": "province",
     "3166-2 code": "ES-OR",
-    "Subdivision name": "Ourense [Orense]",
+    "Subdivision name": "Orense",
+    "Local variant": "",
+    "Language code": "gl",
+    "Romanization system": "",
+    "Parent subdivision": "ES-GA"
+  },
+  "ES-OR" : {
+    "Subdivision category": "province",
+    "3166-2 code": "ES-OR",
+    "Subdivision name": "Ourense",
     "Local variant": "",
     "Language code": "gl",
     "Romanization system": "",
@@ -2796,7 +2805,7 @@ export const Provinces = {
   "ES-PO" : {
     "Subdivision category": "province",
     "3166-2 code": "ES-PO",
-    "Subdivision name": "Pontevedra [Pontevedra]",
+    "Subdivision name": "Pontevedra",
     "Local variant": "",
     "Language code": "gl",
     "Romanization system": "",
@@ -2850,7 +2859,7 @@ export const Provinces = {
   "ES-T" : {
     "Subdivision category": "province",
     "3166-2 code": "ES-T",
-    "Subdivision name": "Tarragona [Tarragona]",
+    "Subdivision name": "Tarragona",
     "Local variant": "",
     "Language code": "ca",
     "Romanization system": "",
