@@ -1,6 +1,6 @@
 {
   "name": "iso3366",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Country names in Spanish and English, alphanumeric codes of two and three characters, iso 3166 for each code and Boolean depending on whether the country is independent ",
   "main": "index.js",
   "scripts": {
